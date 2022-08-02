@@ -1,0 +1,39 @@
+{
+  "course_version" : 1,
+  "environment" : "unittest",
+  "summary" : "Это вводный курс Python.\n- Курс будет наиболее полезен для начинающих изучать Python.\n- Курс охватывает основные функции Python.\n- Он содержит практические примеры реализации кода Python и упражнения для отработки новых навыков.\n- Курс основан на личном опыте автора в разработке на Python.",
+  "title" : "Введение в Python",
+  "programming_language" : "Python",
+  "language" : "ru",
+  "course_type" : "PyCharm",
+  "items" : [
+    {
+      "title" : "Basics",
+      "task_list" : [
+        {
+          "name" : "Introduction",
+          "files" : {
+            "main.py" : {
+              "name" : "main.py",
+              "placeholders" : [ ],
+              "is_visible" : true,
+              "text" : "mheTBEzxhoevP611CUD/mgP7BltWe776qPaBYR5tiCQiIr04zxGwtxef+yJoGEOoY9X47G5rzVZRa7ETXj5Z0F/Jkflgk9VuFXrjAXnDagLMCoiw4Un+UYEKIh16YGkoaoZ0P1pEMPULBpGesB/A6l7M779kjr+/j1GX09Vx5agidzR1LMuPdynRhnbqTPLg0buKa1XFEaV6zWf8HmiofdwddVMzlit9VY0JgADl6526jzDeeBYpifWtbPFsidxy8TZLggJdRwBGa2ZAjUv5d3LBggBrX3VF0E6LRciRTKwxM5KEKk8/MvQfmt+0CI1wckfsksa/vMY7jLFhn9ILOdP3EWU7bZNauMnR5jPSWVxHkiucmVcy1ly44h35v4j+jHQ+atnqraznf827KOoQ5ZG6Wv3w7E6NGjd68HsgnBDeQDYOmtpLEpMibTDPL9G+VcZ0s+2vjnqpPVYjvYuYGE55WYpm7IHKyDNfKg/qHkaegwk3BK7jmavo7FzYMXvVQ3X+DgCLLRIMVueLXchesTO+i6xAx+ETPnaPpFMHatT2wobwzc3qPMHT2XbQbO7mgojkV0idOLe7XbseiM4Hk+qyakbpdlQi64WZ+w6JF4JXbPWpjZNn4bMr/bTXBZDAe926EybQiIHG3aYOxyxhi9ajETAmQfC/4rSTwiYsMxxh+wC45IanfmRJH+U8hgVR2xgaHu9KtGrcGOhF/5YUnHBegWeNXGllp/SDiDBPKEM7DY5XqsDiw4f5VqiZI7CJmi9YPiuA8q4S7h27klG8NlxoUQifZnGhlkoGVZHnIbIBA/Tr1aVJbO9bp8sC1Ck+iLyOEneZlAoS57L2HvmOkmQAtPtbH/UG5sFTh6IIc443CFGw2lmABz7Wz5yi8rntQ0KUu3LBqTCFzpir4OgncB/LBHvnlQpW1zGWlxcE6QuBmQXdCd8FIjyvCODZdsafwVEqjEQ+mzuDKpS4/qLI9Yw6WD3CDZR5Gh/btGmOwYWLgNrBJ0oIn3ZYdCvmg259"
+            },
+            "__init__.py" : {
+              "name" : "__init__.py",
+              "placeholders" : [ ],
+              "is_visible" : false,
+              "text" : "BPrPxsoPO0ddRfXxWyDgbA=="
+            }
+          },
+          "description_text" : "# Введение\n## Что такое Python?\n\nДавайте начнем с точного определения того, что такое **Python**. \n\n**Python** — это компьютерный язык программирования. Или, другими словами, словарь и набор грамматических правил для указания компьютеру выполнять задачи.\nЕго первоначальный создатель, _Гвидо ван Россум_, назвал его в честь телешоу BBC «Летающий цирк Монти Пайтона». \nСледовательно, вы обнаружите, что книги по Python, примеры кода и документация иногда содержат ссылки на это телешоу.\n\nСчитается, что Python прост в изучении, и он разработан на основе набора четко определенных принципов (дзен Python), которые побуждают разработчиков ядра Python создавать язык, который недвусмыслен и прост в использовании.\n\n## Для чего используется Python?\n\nЛюди используют Python во многих задачах. Его богатая базовая библиотека делает его превосходным для всех видов небольших вспомогательных скриптов. \nНо он так же хорошо масштабируется и для больших систем. Чтобы проиллюстрировать это, первоначальные создатели YouTube по большей части использовали Python! \nDropbox, насколько мне известно, в основном тоже написан на Python. А знаете ли вы, что весь бэкэнд и веб-сайт Instagram также написаны на Python?\n\nPython чрезвычайно популярен в быстро развивающейся области знаний, называемой наукой о данных. \nМногие специалисты по данным используют Python для своей повседневной работы. \nИ это лишь несколько примеров. Если присмотреться, Python очень вездесущ.\n\nМногие люди говорят, что Python \"поставляется с включенными батареями\". Это забавный способ заявить, что он включает в себя всеобъемлющую базовую библиотеку. \nВ дополнение к этому вы можете найти сотни тысяч внешних пакетов, предоставленных огромным сообществом. \nВы найдете вспомогательные базовые библиотеки и пакеты практически для всего, чего хотите.\n\n## Основные особенности Python\n\nТак что же делает Python таким популярным языком программирования?\n\n",
+          "description_format" : "MD",
+          "task_type" : "theory"
+        }
+      ],
+      "type" : "lesson"
+    }
+  ],
+  "version" : 13,
+  "edu_plugin_version" : "2022.7-2022.1-585"
+}
